@@ -2,6 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+.bg-1 { 
+       background-color: #1abc9c; /* Green */
+        color: #ffffff;
+    }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
